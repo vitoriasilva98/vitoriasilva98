@@ -5,6 +5,9 @@
 
  <div>
   <a href="https://github.com/vitoriasilva98/vitoriasilva98">
+     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vitoriasilva98&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriasilva98&layout=compact&langs_count=7&theme=radical"/>
+  </a>
 </div>
 <br>
   <img src="https://komarev.com/ghpvc/?username=vitoriasilva98&color=orange" alt="Profile views" />
