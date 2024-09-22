@@ -1,6 +1,5 @@
 <h2 align="center">Oiii! Eu sou a Vitória</h2>
 
-
 - Dev Full Stack na Nava
 
  <div>
@@ -11,8 +10,6 @@
 </div>
 <br>
   <img src="https://komarev.com/ghpvc/?username=vitoriasilva98&color=orange" alt="Profile views" />
-
-- Dev FullStack na Nava
 
 ## Habilidades: 
 ---
