@@ -1,4 +1,4 @@
-<h2 align="center">Oiii! eu sou a Vitória Vitoria</h2>
+<h2 align="center">Oiii! Eu sou a Vitória</h2>
 
 
 - Dev Full Stack na Nava
