@@ -23,8 +23,8 @@
 ## Cursos: 
 
 - Análise e Desenvolvimento de Sistemas - SPTech
+- Software Architecture - FIAP (cursando)
 - Especialista Back-End Java - EBAC
-- Desenvolvedor Full Stack Python - EBAC
 - Java (Alura);
 
 ## Contate me: 
